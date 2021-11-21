@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Laboratory_Work2._3_WPF
+build_property.ProjectDir = D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work2_WPF\Laboratory_Work2.3_WPF\Laboratory_Work2.3_WPF\Laboratory_Work2.3_WPF\

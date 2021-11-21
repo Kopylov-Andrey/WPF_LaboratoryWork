@@ -1,0 +1,28 @@
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.exe
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.deps.json
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.runtimeconfig.json
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.runtimeconfig.dev.json
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.dll
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.pdb
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.csproj.AssemblyReference.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.AssemblyInfoInputs.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.AssemblyInfo.cs
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.csproj.CoreCompileInputs.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.dll
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.pdb
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.genruntimeconfig.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.exe
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.deps.json
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.runtimeconfig.json
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.runtimeconfig.dev.json
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.dll
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\bin\Debug\netcoreapp3.1\Laboratory_Work_1.pdb
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.csproj.AssemblyReference.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.AssemblyInfoInputs.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.AssemblyInfo.cs
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.csproj.CoreCompileInputs.cache
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.dll
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.pdb
+D:\STUDY\POLYTECH\4 course POLYTECH\ISRPO\WPF Laboratory Work\Laboratory_Work_1\Laboratory_Work_1\obj\Debug\netcoreapp3.1\Laboratory_Work_1.genruntimeconfig.cache
