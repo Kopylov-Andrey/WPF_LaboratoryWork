@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtrQMYkA/N9I4XwGO/vtqaPrSoEmeyqfgssO62nwAIMIKg+oeLVQoY2XUCBrynqbiDI+KpFsJnhioFm34qPpOA==",
+  "success": true,
+  "projectFilePath": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\WPF Laboratory Work\\Laboratory_Work_3\\Laboratory_Work_3.2_WPF\\Laboratory_Work_3.2_WPF\\Laboratory_Work_3.2_WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andrey\\.nuget\\packages\\documentformat.openxml\\2.14.0\\documentformat.openxml.2.14.0.nupkg.sha512",
+    "C:\\Users\\andrey\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
