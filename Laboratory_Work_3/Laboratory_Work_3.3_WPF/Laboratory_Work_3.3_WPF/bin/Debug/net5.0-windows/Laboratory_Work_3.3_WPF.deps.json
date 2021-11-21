@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Laboratory_Work_3.3_WPF/1.0.0": {
+        "runtime": {
+          "Laboratory_Work_3.3_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratory_Work_3.3_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
