@@ -16,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\WPF Laboratory Work\\Laboratory_Work_3\\Laboratory_Work_3\\Laboratory_Work_3.csproj",
+      "projectUniqueName": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\WPF Laboratory Work\\Laboratory_Work_3\\Laboratory_Work_3.1_WPF\\Laboratory_Work_3\\Laboratory_Work_3.csproj",
       "projectName": "Laboratory_Work_3",
-      "projectPath": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\WPF Laboratory Work\\Laboratory_Work_3\\Laboratory_Work_3\\Laboratory_Work_3.csproj",
+      "projectPath": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\WPF Laboratory Work\\Laboratory_Work_3\\Laboratory_Work_3.1_WPF\\Laboratory_Work_3\\Laboratory_Work_3.csproj",
       "packagesPath": "C:\\Users\\andrey\\.nuget\\packages\\",
-      "outputPath": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\WPF Laboratory Work\\Laboratory_Work_3\\Laboratory_Work_3\\obj\\",
+      "outputPath": "D:\\STUDY\\POLYTECH\\4 course POLYTECH\\ISRPO\\WPF Laboratory Work\\Laboratory_Work_3\\Laboratory_Work_3.1_WPF\\Laboratory_Work_3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
