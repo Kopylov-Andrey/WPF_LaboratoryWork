@@ -1,0 +1,15 @@
+﻿<Window x:Class="Lab_6._3.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_6._3"
+        mc:Ignorable="d"
+        Title="SecondWindow" Height="450" Width="775.2">
+    <Grid>
+        <TextBox Name="Output" HorizontalAlignment="Left" Height="320" Margin="30,73,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="707"/>
+        <Button Name="ChangeBtn" Content="Добавить" HorizontalAlignment="Left" Margin="30,30,0,0" VerticalAlignment="Top" Width="75" FontSize="14" RenderTransformOrigin="0.497,1.43" Click="ChangeBtn_Click"/>
+        <Button Name="CancelBtn" Content="Отмена" HorizontalAlignment="Left" Margin="151,30,0,0" VerticalAlignment="Top" Width="75" FontSize="14" Click="CancelBtn_Click"/>
+
+    </Grid>
+</Window>
